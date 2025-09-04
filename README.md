@@ -2,7 +2,7 @@
 
 ## For Live Demo
 
-**[view Live Demo here] (https://68b9bae5561c4e28e694cdf0--chimerical-hamster-d49f44.netlify.app/)**
+**[view Live Demo here](https://68b9bae5561c4e28e694cdf0--chimerical-hamster-d49f44.netlify.app/)**
 
 ## Features that are implemented here.
  - 8 multiple choice question
